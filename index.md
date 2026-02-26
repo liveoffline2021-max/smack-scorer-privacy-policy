@@ -7,27 +7,27 @@ Your privacy is important. Smack Scorer is designed **not to collect or store pe
 This file contains the Privacy Policy in multiple languages. Click a language below to jump to it:
 
 ## Language Index
-- [English](#english)
-- [Arabic](#العربية)
-- [Bengali](#বাংলা)
-- [German](#deutsch)
-- [Greek](#ελληνικά)
-- [Spanish](#español)
-- [French](#français)
-- [Hindi](#हिन्दी)
-- [Italian](#italiano)
-- [Japanese](#日本語)
-- [Korean](#한국어)
-- [Dutch](#nederlands)
-- [Polish](#polski)
-- [Portuguese](#português)
-- [Romanian](#română)
-- [Russian](#русский)
-- [Ukrainian](#українська)
+- [English](#english-en)
+- [Arabic](#arabic-ar)
+- [Bengali](#bengali-bn)
+- [German](#german-de)
+- [Greek](#greek-el)
+- [Spanish](#spanish-es)
+- [French](#french-fr)
+- [Hindi](#hindi-hi)
+- [Italian](#italian-it)
+- [Dutch](#dutch-nl)
+- [Polish](#polish-pl)
+- [Portuguese](#portuguese-pt)
+- [Romanian](#romanian-ro)
+- [Russian](#russian-ru)
+- [Swahili](#swahili-sw)
+- [Ukrainian](#ukrainian-uk)
+- [Chinese](#chinese-zh)
 
 ---
 
-## English
+## English (en)
 
 **Privacy Policy – Smack Scorer**
 
@@ -64,11 +64,11 @@ We may update this Privacy Policy occasionally. The latest version will always b
 
 ### Contact Us  
 If you have questions or concerns about this Privacy Policy, contact us:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## العربية (Arabic)
+## Arabic (ar)
 
 **سياسة الخصوصية – Smack Scorer**
 
@@ -105,11 +105,11 @@ If you have questions or concerns about this Privacy Policy, contact us:
 
 ### اتصل بنا  
 إذا كان لديك أي أسئلة أو مخاوف حول سياسة الخصوصية هذه، تواصل معنا:  
-**البريد الإلكتروني:** liveoffline2021@gmail.com
+**البريد الإلكتروني:** contact@liveoffline.ca
 
 ---
 
-## বাংলা (Bengali)
+## Bengali (bn)
 
 **গোপনীয়তা নীতি – Smack Scorer**
 
@@ -146,11 +146,11 @@ Smack Scorer 13 বছরের কম বয়সী শিশুদের জ
 
 ### যোগাযোগ করুন  
 এই গোপনীয়তা নীতির বিষয়ে আপনার কোনো প্রশ্ন বা উদ্বেগ থাকলে, আমাদের সাথে যোগাযোগ করুন:  
-**ইমেল:** liveoffline2021@gmail.com
+**ইমেল:** contact@liveoffline.ca
 
 ---
 
-## Deutsch (German)
+## German (de)
 
 **Datenschutzbestimmungen – Smack Scorer**
 
@@ -187,11 +187,52 @@ Wir können diese Datenschutzbestimmungen gelegentlich aktualisieren. Die neuest
 
 ### Kontakt  
 Bei Fragen oder Bedenken zu dieser Datenschutzrichtlinie kontaktieren Sie uns bitte:  
-**E‑Mail:** liveoffline2021@gmail.com
+**E‑Mail:** contact@liveoffline.ca
 
 ---
 
-## Español (Spanish)
+## Greek (el)
+
+**Πολιτική Απορρήτου – Smack Scorer**
+
+**Ημερομηνία Έναρξης Ισχύος:** 24 Φεβρουαρίου 2026
+
+Το απόρρητό σας είναι σημαντικό για εμάς. Το Smack Scorer έχει σχεδιαστεί ώστε **να μην συλλέγει ή αποθηκεύει προσωπικές πληροφορίες**.
+
+### Συλλογή Δεδομένων  
+Παρόλο που δεν συλλέγουμε τα προσωπικά σας δεδομένα, αυτή η εφαρμογή χρησιμοποιεί το **Google AdMob** για την προβολή διαφημίσεων. Το AdMob ενδέχεται να συλλέγει πληροφορίες όπως:  
+- Αναγνωριστικά συσκευής (π.χ. αναγνωριστικό διαφήμισης)  
+- Δεδομένα χρήσης (π.χ. αλληλεπιδράσεις με την εφαρμογή, διάρκεια συνεδρίας)
+
+Αυτές οι πληροφορίες χρησιμοποιούνται για την παροχή εξατομικευμένων διαφημίσεων και τη βελτίωση της απόδοσης των διαφημίσεων. Δεν έχουμε πρόσβαση σε προσωπικά στοιχεία ούτε τα κοινοποιούμε.
+
+### Πώς Χρησιμοποιούνται τα Δεδομένα σας  
+Τα δεδομένα που συλλέγονται από το AdMob ενδέχεται να χρησιμοποιούνται για:  
+- Την προβολή διαφημίσεων που ταιριάζουν με τα ενδιαφέροντά σας  
+- Τη μέτρηση της απόδοσης των διαφημίσεων και τη βελτίωση της ποιότητας της εφαρμογής  
+- Την πρόληψη απάτης και την ενίσχυση της ασφάλειας
+
+Δεν χρησιμοποιούμε τα δεδομένα σας για οποιονδήποτε άλλο σκοπό.
+
+### Επιλογές Χρήστη  
+Μπορείτε να απενεργοποιήσετε τις εξατομικευμένες διαφημίσεις προσαρμόζοντας τις ρυθμίσεις Google εδώ: [Ρυθμίσεις Διαφημίσεων Google](https://www.google.com/settings/ads)
+
+### Απόρρητο Παιδιών  
+Το Smack Scorer δεν προορίζεται για παιδιά κάτω των 13 ετών και δεν συλλέγουμε εν γνώσει μας δεδομένα από παιδιά.
+
+### Υπηρεσίες Τρίτων  
+Αυτή η εφαρμογή χρησιμοποιεί υπηρεσίες τρίτων, όπως το Google AdMob, οι οποίες έχουν τις δικές τους πρακτικές απορρήτου. Για περισσότερες πληροφορίες, ανατρέξτε στην [Πολιτική Απορρήτου της Google](https://policies.google.com/privacy).
+
+### Ενημερώσεις στην Πολιτική Απορρήτου  
+Ενδέχεται να ενημερώνουμε αυτήν την Πολιτική Απορρήτου κατά καιρούς. Η πιο πρόσφατη έκδοση θα είναι πάντα διαθέσιμη μέσα στην εφαρμογή.
+
+### Επικοινωνία  
+Εάν έχετε ερωτήσεις ή ανησυχίες σχετικά με αυτήν την Πολιτική Απορρήτου, επικοινωνήστε μαζί μας:  
+**Email:** contact@liveoffline.ca
+
+---
+
+## Spanish (es)
 
 **Política de Privacidad – Smack Scorer**  
 
@@ -228,11 +269,11 @@ Podemos actualizar esta política ocasionalmente. La versión más reciente siem
 
 ### Contáctanos  
 Si tienes preguntas o inquietudes sobre esta política de privacidad, contáctanos:  
-**Correo electrónico:** liveoffline2021@gmail.com
+**Correo electrónico:** contact@liveoffline.ca
 
 ---
 
-## Français (French)
+## French (fr)
 
 **Politique de Confidentialité – Smack Scorer**  
 
@@ -269,11 +310,11 @@ Nous pouvons mettre à jour cette politique de temps en temps. La dernière vers
 
 ### Contactez-nous  
 Pour toute question concernant cette politique, contactez-nous:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## हिन्दी (Hindi)
+## Hindi (hi)
 
 **गोपनीयता नीति – Smack Scorer**  
 
@@ -310,11 +351,11 @@ Smack Scorer 13 वर्ष से कम उम्र के बच्चो�
 
 ### संपर्क करें  
 यदि आपके पास इस नीति के बारे में प्रश्न हैं, तो हमसे संपर्क करें:  
-**ईमेल:** liveoffline2021@gmail.com
+**ईमेल:** contact@liveoffline.ca
 
 ---
 
-## Italiano (Italian)
+## Italian (it)
 
 **Informativa sulla Privacy – Smack Scorer**  
 
@@ -351,93 +392,11 @@ Potremmo aggiornare la presente politica di tanto in tanto. L’ultima versione 
 
 ### Contattaci  
 Per domande o dubbi sulla presente informativa, contattaci:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## 日本語 (Japanese)
-
-**プライバシーポリシー – Smack Scorer**  
-
-**発効日:** 2026年2月24日  
-
-あなたのプライバシーは重要です。Smack Scorerは、**個人情報を収集または保存しない**ように設計されています。
-
-### データ収集  
-当アプリは個人データを収集しませんが、広告表示のために**Google AdMob**を使用しています。AdMobは以下の情報を収集することがあります：  
-- デバイス識別子（例：広告ID）  
-- 使用状況データ（例：アプリ操作、セッション時間）
-
-この情報は、パーソナライズ広告の提供と広告パフォーマンスの向上に使用されます。当方は個人情報にアクセスせず、共有も行いません。
-
-### データの利用方法  
-AdMobにより収集されたデータは以下の目的で使用されることがあります：  
-- あなたの興味に合った広告の表示  
-- 広告パフォーマンスの測定とアプリ品質の向上  
-- 不正防止とセキュリティ強化
-
-その他の目的でデータを使用することはありません。
-
-### ユーザーの選択  
-パーソナライズ広告をオフにするには、Google設定を変更してください：[Google Ads Settings](https://www.google.com/settings/ads)
-
-### 子供のプライバシー  
-Smack Scorerは13歳未満の子供向けではなく、子供のデータを意図的に収集することはありません。
-
-### サードパーティサービス  
-本アプリはGoogle AdMobなどのサードパーティサービスを利用しています。詳細は[Google Privacy Policy](https://policies.google.com/privacy)をご覧ください。
-
-### プライバシーポリシーの更新  
-プライバシーポリシーは随時更新される場合があります。最新バージョンは常にアプリ内で確認できます。
-
-### お問い合わせ  
-プライバシーポリシーに関する質問や懸念がある場合は、以下までご連絡ください：  
-**メール:** liveoffline2021@gmail.com
-
----
-
-## 한국어 (Korean)
-
-**개인정보 처리방침 – Smack Scorer**  
-
-**발효일:** 2026년 2월 24일  
-
-귀하의 개인정보는 중요합니다. Smack Scorer는 **개인 정보를 수집하거나 저장하지 않도록** 설계되었습니다.
-
-### 데이터 수집  
-이 앱은 개인 데이터를 수집하지 않지만, 광고 표시를 위해 **Google AdMob**을 사용합니다. AdMob은 다음과 같은 정보를 수집할 수 있습니다:  
-- 기기 식별자 (예: 광고 ID)  
-- 사용 데이터 (예: 앱 상호작용, 세션 시간)
-
-이 정보는 맞춤 광고 제공 및 광고 성과 향상을 위해 사용됩니다. 우리는 개인 세부 정보에 접근하거나 공유하지 않습니다.
-
-### 데이터 사용 방법  
-AdMob에서 수집한 데이터는 다음에 사용될 수 있습니다:  
-- 관심사에 맞는 광고 제공  
-- 광고 성과 측정 및 앱 품질 개선  
-- 사기 방지 및 보안 강화
-
-다른 목적으로 데이터가 사용되지 않습니다.
-
-### 사용자 선택  
-맞춤 광고를 원하지 않으면 Google 설정에서 선택을 변경할 수 있습니다: [Google Ads Settings](https://www.google.com/settings/ads)
-
-### 어린이 개인정보 보호  
-Smack Scorer는 13세 미만 어린이를 대상으로 하지 않으며, 어린이 데이터를 의도적으로 수집하지 않습니다.
-
-### 제3자 서비스  
-이 앱은 Google AdMob과 같은 제3자 서비스를 사용하며, 각자의 개인정보 보호정책을 가지고 있습니다. 자세한 정보: [Google Privacy Policy](https://policies.google.com/privacy)
-
-### 개인정보 처리방침 업데이트  
-이 개인정보 처리방침은 수시로 업데이트될 수 있습니다. 최신 버전은 항상 앱에서 확인할 수 있습니다.
-
-### 문의하기  
-이 개인정보 처리방침에 대한 질문이나 우려사항이 있으면 연락주세요:  
-**이메일:** liveoffline2021@gmail.com
-
----
-
-## Nederlands (Dutch)
+## Dutch (nl)
 
 **Privacybeleid – Smack Scorer**  
 
@@ -474,11 +433,11 @@ We kunnen dit privacybeleid van tijd tot tijd bijwerken. De nieuwste versie is a
 
 ### Contact  
 Als u vragen of opmerkingen heeft over dit privacybeleid, neem contact met ons op:  
-**E-mail:** liveoffline2021@gmail.com
+**E-mail:** contact@liveoffline.ca
 
 ---
 
-## Polski (Polish)
+## Polish (pl)
 
 **Polityka prywatności – Smack Scorer**  
 
@@ -515,11 +474,11 @@ Polityka prywatności może być od czasu do czasu aktualizowana. Najnowsza wers
 
 ### Kontakt  
 W przypadku pytań lub wątpliwości dotyczących polityki prywatności, prosimy o kontakt:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Português (Portuguese)
+## Portuguese (pt)
 
 **Política de Privacidade – Smack Scorer**  
 
@@ -556,11 +515,11 @@ Podemos atualizar esta política de tempos em tempos. A versão mais recente est
 
 ### Contato  
 Se você tiver perguntas ou preocupações sobre esta política, entre em contato conosco:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Română (Romanian)
+## Romanian (ro)
 
 **Politica de Confidențialitate – Smack Scorer**  
 
@@ -597,11 +556,11 @@ Această politică poate fi actualizată ocazional. Versiunea cea mai recentă v
 
 ### Contact  
 Pentru întrebări sau nelămuriri privind această politică, contactați-ne:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Русский (Russian)
+## Russian (ru)
 
 **Политика конфиденциальности – Smack Scorer**  
 
@@ -638,11 +597,53 @@ Smack Scorer не предназначен для детей младше 13 л�
 
 ### Связь с нами  
 Если у вас есть вопросы о политике конфиденциальности, свяжитесь с нами:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
 
 ---
 
-## Українська (Ukrainian)
+## Swahili (sw)
+
+**Sera ya Faragha – Smack Scorer**
+
+**Tarehe ya Kuanza Kutumika:** Februari 24, 2026
+
+Faragha yako ni muhimu kwetu. Smack Scorer imeundwa **kutokusanya au kuhifadhi taarifa zozote za kibinafsi**.
+
+### Ukusanyaji wa Data  
+Ingawa hatukusanyi data zako za kibinafsi, programu hii hutumia **Google AdMob** kuonyesha matangazo. AdMob inaweza kukusanya taarifa kama vile:  
+- Vitambulisho vya kifaa (kwa mfano, kitambulisho cha matangazo)  
+- Data ya matumizi (kwa mfano, jinsi unavyotumia programu, muda wa kikao)
+
+Taarifa hizi hutumika kutoa matangazo yaliyobinafsishwa na kuboresha utendaji wa matangazo. Hatuna ufikiaji wa maelezo ya kibinafsi wala hatuyashiriki sisi wenyewe.
+
+### Jinsi Data Yako Inavyotumika  
+Data inayokusanywa na AdMob inaweza kutumika kwa:  
+- Kuonyesha matangazo yanayolingana na maslahi yako  
+- Kupima utendaji wa matangazo na kuboresha ubora wa programu  
+- Kuzuia udanganyifu na kuimarisha usalama
+
+Hatutumii data yako kwa madhumuni mengine yoyote.
+
+### Chaguo za Mtumiaji  
+Unaweza kujiondoa kwenye matangazo yaliyobinafsishwa kwa kurekebisha mipangilio yako ya Google hapa: [Google Ads Settings](https://www.google.com/settings/ads)
+
+### Faragha ya Watoto  
+Smack Scorer haikusudiwi kwa watoto walio chini ya umri wa miaka 13, na hatukusanyi kwa makusudi data kutoka kwa watoto.
+
+### Huduma za Watu wa Tatu  
+Programu hii hutumia huduma za watu wa tatu kama vile Google AdMob, ambazo zina sera zao za faragha. Kwa maelezo zaidi, tafadhali angalia [Sera ya Faragha ya Google](https://policies.google.com/privacy).
+
+### Sasisho za Sera Hii ya Faragha  
+Tunaweza kusasisha Sera hii ya Faragha mara kwa mara. Toleo la hivi karibuni litapatikana kila wakati ndani ya programu.
+
+### Wasiliana Nasi  
+Ikiwa una maswali au wasiwasi kuhusu Sera hii ya Faragha, wasiliana nasi:  
+**Barua pepe:** contact@liveoffline.ca
+
+---
+
+
+## Ukrainian (uk)
 
 **Політика конфіденційності – Smack Scorer**  
 
@@ -679,4 +680,47 @@ Smack Scorer не призначений для дітей до 13 років, �
 
 ### Контакт  
 Якщо у вас є питання щодо цієї політики конфіденційності, зв’яжіться з нами:  
-**Email:** liveoffline2021@gmail.com
+**Email:** contact@liveoffline.ca
+
+---
+
+## Chinese (zh)
+
+**隐私政策 – Smack Scorer**
+
+**生效日期：** 2026年2月24日
+
+您的隐私对我们非常重要。Smack Scorer 的设计宗旨是**不收集或存储任何个人信息**。
+
+### 数据收集  
+虽然我们不会收集您的个人数据，但本应用使用 **Google AdMob** 展示广告。AdMob 可能会收集以下信息：  
+- 设备标识符（例如广告 ID）  
+- 使用数据（例如应用互动情况、会话时长）
+
+这些信息用于提供个性化广告并提升广告效果。我们无法访问您的个人详细信息，也不会自行分享这些信息。
+
+### 您的数据如何被使用  
+AdMob 收集的数据可能用于：  
+- 展示符合您兴趣的广告  
+- 衡量广告效果并改进应用质量  
+- 防止欺诈并增强安全性
+
+我们不会将您的数据用于任何其他目的。
+
+### 用户选择  
+您可以通过在此调整 Google 设置来选择退出个性化广告：  
+[Google Ads Settings](https://www.google.com/settings/ads)
+
+### 儿童隐私  
+Smack Scorer 不适用于 13 岁以下的儿童，我们也不会故意收集儿童的数据。
+
+### 第三方服务  
+本应用使用第三方服务，例如 Google AdMob，这些服务有其各自的隐私政策。欲了解更多信息，请参阅  
+[Google 隐私政策](https://policies.google.com/privacy)。
+
+### 本隐私政策的更新  
+我们可能会不时更新本隐私政策。最新版本将始终可在应用内查看。
+
+### 联系我们  
+如果您对本隐私政策有任何疑问或担忧，请通过以下方式联系我们：  
+**电子邮件：** contact@liveoffline.ca
